@@ -1,0 +1,18 @@
+
+div.card{
+    color: white;
+    background-color: rgb(2, 2, 185);
+    border-radius: 1.2rem;
+    height: 12rem;
+}
+a.btn{
+    
+    background-color: white;
+    color:  rgb(2, 2, 185);
+    font-size: 1.3rem;
+}
+.aligning{
+    width: 10rem;
+    display:flex ;
+    justify-content:center !important;
+}
